@@ -6,3 +6,7 @@ move_speed = 16
 canAttack = true
 
 hp = 100
+
+audio_play_sound(jungle_classroom_edward_hanson, 1, true)
+
+

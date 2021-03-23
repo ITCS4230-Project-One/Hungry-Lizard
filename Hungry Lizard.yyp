@@ -20,6 +20,7 @@
     {"id":{"name":"spr_blueSky","path":"sprites/spr_blueSky/spr_blueSky.yy",},"order":3,},
     {"id":{"name":"obj_blueFade","path":"objects/obj_blueFade/obj_blueFade.yy",},"order":4,},
     {"id":{"name":"obj_redBlock","path":"objects/obj_redBlock/obj_redBlock.yy",},"order":3,},
+    {"id":{"name":"jungle_classroom_edward_hanson","path":"sounds/jungle_classroom_edward_hanson/jungle_classroom_edward_hanson.yy",},"order":15,},
     {"id":{"name":"obj_food","path":"objects/obj_food/obj_food.yy",},"order":7,},
     {"id":{"name":"jump","path":"sounds/jump/jump.yy",},"order":3,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":2,},
