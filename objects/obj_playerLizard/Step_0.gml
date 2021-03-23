@@ -1,3 +1,5 @@
+image_speed = 0
+
 //spacebar to change the lizard from red or blue
 if (keyboard_check_pressed(vk_space) and sprite_index != spr_redLizardAttack and sprite_index != spr_blueLizardAttack){
 	if(sprite_index = spr_blueLizard){
@@ -12,6 +14,7 @@ if (keyboard_check_pressed(vk_space) and sprite_index != spr_redLizardAttack and
 if (keyboard_check(vk_left) and !instance_place(x-move_speed, y, obj_block)) {
 		x += -move_speed
 		image_xscale = -1
+		image_speed = 1
 		
 }
 	
@@ -19,7 +22,7 @@ if (keyboard_check(vk_left) and !instance_place(x-move_speed, y, obj_block)) {
 if (keyboard_check(vk_right) and !instance_place(x+move_speed, y, obj_block)){ //
 		x += move_speed
 		image_xscale = 1
-		
+		image_speed = 1
 	
 }
 
