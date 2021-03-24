@@ -5,5 +5,6 @@ if (sprite_index = spr_blueLizardAttack){
 else{
 	instance_destroy(other)
 	hp -= 25
+	audio_play_sound(touch_enemy, 2, false)
 }
 

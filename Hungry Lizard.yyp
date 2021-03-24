@@ -32,6 +32,7 @@
     {"id":{"name":"obj_blueFly","path":"objects/obj_blueFly/obj_blueFly.yy",},"order":9,},
     {"id":{"name":"path_leftRight","path":"paths/path_leftRight/path_leftRight.yy",},"order":1,},
     {"id":{"name":"Room1_2","path":"rooms/Room1_2/Room1_2.yy",},"order":1,},
+    {"id":{"name":"touch_enemy","path":"sounds/touch_enemy/touch_enemy.yy",},"order":6,},
     {"id":{"name":"obj_invisibleBlock","path":"objects/obj_invisibleBlock/obj_invisibleBlock.yy",},"order":10,},
     {"id":{"name":"spr_greenGround","path":"sprites/spr_greenGround/spr_greenGround.yy",},"order":7,},
     {"id":{"name":"spr_redLizard","path":"sprites/spr_redLizard/spr_redLizard.yy",},"order":5,},

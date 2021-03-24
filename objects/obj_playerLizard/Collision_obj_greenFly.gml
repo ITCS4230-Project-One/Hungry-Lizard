@@ -7,6 +7,7 @@ if(other.image_alpha = 1){
 		}	else{
 			instance_destroy(other)
 			hp -= 20
+			audio_play_sound(touch_enemy, 2, false)
 		}
 	}
 	else if(other.image_blend = c_lime){
@@ -16,6 +17,7 @@ if(other.image_alpha = 1){
 		}	else{
 			instance_destroy(other)
 			hp -= 20
+			audio_play_sound(touch_enemy, 2, false)
 		}
 	}
 	else{
@@ -25,6 +27,7 @@ if(other.image_alpha = 1){
 		}	else{
 			instance_destroy(other)
 			hp -= 20
+			audio_play_sound(touch_enemy, 2, false)
 		}
 	}
 
