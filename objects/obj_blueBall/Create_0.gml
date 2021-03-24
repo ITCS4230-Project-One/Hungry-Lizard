@@ -1,0 +1,1 @@
+hspeed = global.projSpeed
