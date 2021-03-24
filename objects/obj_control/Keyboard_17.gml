@@ -13,6 +13,11 @@ if(keyboard_check_pressed(ord("F"))){
 
 //move on to next level
 if(keyboard_check_pressed(ord("N"))){
-	room_goto_next()
+	if(room = Room1_2){
+		global.win = true
+	}
+	else{
+		room_goto_next()
+	}
 }
 

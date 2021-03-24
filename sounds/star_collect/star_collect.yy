@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "jungle_classroom_edward_hanson.mp3",
-  "duration": 98.645,
+  "soundFile": "star_collect.wav",
+  "duration": 1.238,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "jungle_classroom_edward_hanson",
+  "name": "star_collect",
   "tags": [],
   "resourceType": "GMSound",
 }

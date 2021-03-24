@@ -1,11 +1,5 @@
-/// @description Insert description here
-// You can write your code in this editor
-if sprite_index == spr_redLizard{
+if(other.image_alpha = 1){
 	instance_destroy(other)	
-}
-
-if sprite_index == spr_blueLizard{
-	instance_destroy(other)	
-	
+	audio_play_sound(ball_hit, 2, false)
 	hp -= 15
 }

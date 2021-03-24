@@ -13,7 +13,7 @@ if obj_playerLizard.x < x
 	image_xscale = 1
 	global.projSpeed = -5
 	if (alarm[0] < 0){
-	alarm[0] = room_speed * 5
+	alarm[0] = 150
 	}
 }if obj_playerLizard.x > x
 {
@@ -21,7 +21,7 @@ if obj_playerLizard.x < x
 	image_xscale = -1
 	global.projSpeed = 5
 	if (alarm[1] < 0){
-	alarm[1] = room_speed * 5
+	alarm[1] = 150
 	}
 }
 	

@@ -1,3 +1,6 @@
-/// @description Insert description here
-// You can write your code in this editor
-room_goto_next()
+if(room == Room1_2){
+	global.win = true		
+}
+else{
+	room_goto_next()
+}
