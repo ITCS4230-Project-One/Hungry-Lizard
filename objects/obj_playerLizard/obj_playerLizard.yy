@@ -33,6 +33,7 @@
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_collectible","path":"objects/obj_collectible/obj_collectible.yy",},"parent":{"name":"obj_playerLizard","path":"objects/obj_playerLizard/obj_playerLizard.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_blueMonkey","path":"objects/obj_blueMonkey/obj_blueMonkey.yy",},"parent":{"name":"obj_playerLizard","path":"objects/obj_playerLizard/obj_playerLizard.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_blueBall","path":"objects/obj_blueBall/obj_blueBall.yy",},"parent":{"name":"obj_playerLizard","path":"objects/obj_playerLizard/obj_playerLizard.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_redBall","path":"objects/obj_redBall/obj_redBall.yy",},"parent":{"name":"obj_playerLizard","path":"objects/obj_playerLizard/obj_playerLizard.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [
     {"varType":3,"value":"False","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"isWalking","tags":[],"resourceType":"GMObjectProperty",},
